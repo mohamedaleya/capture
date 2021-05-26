@@ -14,7 +14,7 @@ const AboutSection = () => {
           </Hide>
           <Hide>
             <h2>
-              Your <span>dreams</span> come
+              your <span>dreams</span> come
             </h2>
           </Hide>
           <Hide>

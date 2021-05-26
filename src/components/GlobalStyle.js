@@ -39,7 +39,7 @@ h2{
     }
     h4{
         font-weight: bold;
-        
+        font-size: 2rem;
     }
     span{
         font-weight: bold;
@@ -51,7 +51,6 @@ h2{
         font-size: 1.4rem;
         line-height: 150%;
     }
-
 `;
 
 export default GlobalStyle;
