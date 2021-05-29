@@ -82,5 +82,3 @@ const Card = styled.div`
 `;
 
 export default ServicesSection;
-
-ss;
